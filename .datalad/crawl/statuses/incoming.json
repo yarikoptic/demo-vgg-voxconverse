@@ -1,0 +1,15 @@
+{
+  "db_version": 1,
+  "files": {
+    "voxconverse_dev_wav.zip": {
+      "filename": "voxconverse_dev_wav.zip",
+      "mtime": 1626873755,
+      "size": 1988647478
+    },
+    "voxconverse_test_wav.zip": {
+      "filename": "voxconverse_test_wav.zip",
+      "mtime": 1626873417,
+      "size": 4272764397
+    }
+  }
+}
