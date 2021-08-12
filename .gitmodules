@@ -1,3 +1,4 @@
 [submodule "labels"]
 	path = labels
 	url = https://github.com/joonson/voxconverse
+	datalad-url = https://github.com/joonson/voxconverse
